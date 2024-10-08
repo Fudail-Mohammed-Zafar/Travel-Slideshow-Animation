@@ -14,11 +14,6 @@ This repository contains the code for an animated travel website that showcases 
 - `style.css`: Stylesheet for the website, containing layout, animations, and design properties.
 - `script.js`: JavaScript file for handling interactive functionality like the rotation of slides.
 
-### Technologies Used
-- **HTML5**: For structuring the content of the webpage.
-- **CSS3**: For styling the webpage, including animations and responsiveness.
-- **JavaScript**: To add interactive elements, including rotating slides.
-
 ### Customization
 
 - To add new locations or modify the existing ones, simply add or replace the content in the HTML structure under the `.bg-slide` sections.
