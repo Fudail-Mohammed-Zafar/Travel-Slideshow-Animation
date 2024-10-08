@@ -1,4 +1,4 @@
-# Travel Animated Website
+# Travel Slideshow Website
 
 This repository contains the code for an animated travel website that showcases various global destinations. The site features dynamic background transitions and rotating content for an engaging user experience.
 
